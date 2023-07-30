@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93364787-d273-4fba-9129-7637466376cd" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/ShapeRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/ShapeRunner.java" afterDir="false" />
+    <list default="true" id="93364787-d273-4fba-9129-7637466376cd" name="Changes" comment="Update 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/employee/EmployeeManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/employee/EmployeeManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/employee/EmployeeRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/employee/EmployeeRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/employee/EmployeeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/employee/EmployeeRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/library/BookRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/library/BookRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/library/BookRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/library/BookRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/ShapeManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/ShapeManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/shape/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/student/StudentRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/student/StudentRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/student/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/tutorial/beginner/chapter01_oop/student/StudentRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +30,11 @@
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -128,13 +118,33 @@
       <option name="project" value="LOCAL" />
       <updated>1688922322837</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update 1">
+      <option name="closed" value="true" />
+      <created>1689930711779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689930711779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init project" />
     <MESSAGE value="Create README.md&#10;&#10;Add table of content" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1" />
   </component>
 </project>
